@@ -31,7 +31,7 @@ These stats are based on TPP PC v1.09 and the latest commit to this repo:
 |QAR filename|Files|Named|Unnamed|Average|Notes|
 |---|---|---|---|---|---|
 |gzs\data_01.g0s|15329|14051|1278|91.66%||
-|gzs\data_02.g0s|720|708|12|98.33%||
+|gzs\data_02.g0s|893|882|11|98.77%||
 |mgo\chunk0.dat|3814|3267|547|85.66%||
 |mgo\texture0.dat|?|?|?|?%|Crash when unpack with sergeanur tool|
 |tpp\chunk0.dat|2885|2870|15|99.48%||
